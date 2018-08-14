@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ubs.opsit.interviews.BerlinClockFixture" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-08-14T16:22:09" hostname="Madan-PC" time="2.963">
+  <properties/>
+  <testcase name="testProcessSecounsON" classname="com.ubs.opsit.interviews.BerlinClockFixture" time="0.138"/>
+  <testcase name="testProcessSecoundOff" classname="com.ubs.opsit.interviews.BerlinClockFixture" time="0.001"/>
+  <testcase name="testProcessBottomMinutes" classname="com.ubs.opsit.interviews.BerlinClockFixture" time="0.0"/>
+  <testcase name="testProcessBottomHour" classname="com.ubs.opsit.interviews.BerlinClockFixture" time="0.0"/>
+  <testcase name="berlinClockAcceptanceTests" classname="com.ubs.opsit.interviews.BerlinClockFixture" time="2.819"/>
+  <testcase name="testProcessTopHour" classname="com.ubs.opsit.interviews.BerlinClockFixture" time="0.0"/>
+  <testcase name="testProcessTopMinutes" classname="com.ubs.opsit.interviews.BerlinClockFixture" time="0.001"/>
+  <system-out><![CDATA[2018-08-14T21:52:10.077 | est worker | ClasspathStoryFinder | INFO   - Searching for stories called [berlin-clock.story] in [[C:\Users\Madan\git\java-berlin-clock\build\classes\test, C:\Users\Madan\git\java-berlin-clock\build\resources\test, C:\Users\Madan\git\java-berlin-clock\build\classes\main]] 
+2018-08-14T21:52:10.150 | est worker | aviouralTestEmbedder | INFO   - Running [BehaviouralTestEmbedder] with spring_stories [[file:/C:/Users/Madan/git/java-berlin-clock/build/resources/test/stories/berlin-clock.story]] 
+Processing system properties {}
+Using controls EmbedderControls[batch=false,skip=false,generateViewAfterStories=true,ignoreFailureInStories=false,ignoreFailureInView=false,verboseFailures=false,verboseFiltering=false,storyTimeoutInSecs=300,threads=1]
+Running story file:/C:/Users/Madan/git/java-berlin-clock/build/resources/test/stories/berlin-clock.story
+
+(BeforeStories)
+
+
+(AfterStories)
+
+Generating reports view to 'C:\Users\Madan\git\java-berlin-clock\build\classes\jbehave' using formats '[stats, html, console]' and view properties '{defaultFormats=stats, decorateNonHtml=true, viewDirectory=view, decorated=ftl/jbehave-report-decorated.ftl, reports=ftl/jbehave-reports-with-totals.ftl, maps=ftl/jbehave-maps.ftl, navigator=ftl/jbehave-navigator.ftl, views=ftl/jbehave-views.ftl, nonDecorated=ftl/jbehave-report-non-decorated.ftl}'
+Reports view generated with 1 stories (of which 0 pending) containing 4 scenarios (of which 0 pending)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
